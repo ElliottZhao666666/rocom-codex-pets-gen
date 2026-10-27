@@ -1,0 +1,4 @@
+interface:
+  display_name: "原模型制作 Codex Pets"
+  short_description: "只接收标准单实体目录，按所选颜色及当前赛季资源渲染原模型、动作和表情，制作 Pets。"
+  default_prompt: "使用 $rocom-codex-pets-gen，校验我指定的标准目录，沿用我明确的颜色选择，缺少选择时询问，按当前资源渲染原模型、动作和表情并制作 Pets。"
